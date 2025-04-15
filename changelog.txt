@@ -4,3 +4,6 @@ Subindo com o index.HTML com duas tags H1 referentes aos bugfixes
 Release 0.1.1
 Alterando o HTML referente o hotfix #1
 
+Release 0.1.2
+Alterando o HTML referente o hotfix #2
+
